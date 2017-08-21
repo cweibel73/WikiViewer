@@ -1,0 +1,29 @@
+#random {
+  height:70px;
+  width:200px;
+  font-size:20px;
+  margin: auto;
+  display: block;
+}
+
+#searching {
+  margin: 0 auto;
+  width: 80%;
+  font-size:40px;
+  
+}
+
+#searchIt {
+  display:inline-block;
+  
+}
+
+#searchFor {
+  display:inline-block;
+  
+}
+
+
+.test {
+  display: none;
+}
